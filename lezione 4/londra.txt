@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> Londra </title>
+</head>
+<body>
+<center><h1><font color="red">Londra</font></h1></center>
+<br><br><br>
+<img src="londra.jfif" witdh="200" height="100">
+<br><br><br>
+<a href="index.html"> Torna alla home </a>
+<br><br><br>
+<p> Luoghi da visitare a <b> londra </b>
+<ol type="1">
+<li> Stadio di Wembley </li>
+<li> Stonehenge </li>
+<li> Big Bang </li>
+<li> Tower Bridge </li>
+</ol>
+</p>
+ 
+</body>
+</html>

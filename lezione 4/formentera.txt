@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> Formentera </title>
+</head>
+<body>
+<center><h1><font color="red">Formentera</font></h1></center>
+<br><br><br>
+<img src="formentera.jfif" witdh="200" height="100">
+<br><br><br>
+<a href="index.html"> Torna alla home </a>
+<ol type="1">
+<li> Cala Salada  </li>
+<li> Castel de Evissa </li>
+<li> Cala d'Hort </li>
+</ol>
+</p>
+</body>
+</html>
